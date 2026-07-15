@@ -95,7 +95,7 @@ Darshan-Ease/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Darshan-Ease.git
+git clone https://github.com/poorneshkumar68183-dotcom/DEASE.git
 ```
 
 ### Navigate to the project
